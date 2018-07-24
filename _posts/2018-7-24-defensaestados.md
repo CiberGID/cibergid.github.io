@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Participación del profesor Miguel Rodríguez Artacho en el II Curso de Verano UIMP: Desafíos de las políticas públicas ante las ciberamenazas.
+title: Participación del prof. Miguel Rodríguez Artacho en el curos "Desafíos de las políticas públicas ante las ciberamenazas"
 ---
 
 El pasado 11 de Julio 2018 nuestro compañero del CiberGID, el profesor Miguel Rodríguez Artacho tuvo el placer de participar en el II Curso de Verano de la UIMP: Desafíos de las políticas ante las ciberamenzadas en una mesa redonda donde se debatío el aprendizaje de la ciberseguridad.

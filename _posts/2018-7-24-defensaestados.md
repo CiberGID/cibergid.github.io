@@ -2,7 +2,7 @@
 layout: post
 title: Participación del prof. Miguel Rodríguez Artacho en el II Curso de Verano UIMP
 ---
-#### El pasado 11 de Julio 2018 nuestro compañero del CiberGID, el profesor Miguel Rodríguez Artacho, tuvo el placer de participar en el II Curso de Verano de la UIMP: Desafíos de las políticas ante las ciberamenzadas en una mesa redonda donde se debatío el aprendizaje de la ciberseguridad.
+#### El pasado 11 de Julio 2018 nuestro compañero del CiberGID, el profesor Miguel Rodríguez Artacho, tuvo el honor de participar en el II Curso de Verano de la UIMP: Desafíos de las políticas ante las ciberamenzadas en una mesa redonda donde se debatío el aprendizaje de la ciberseguridad.
 <center>
 <blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Última mesa del curso <a href="https://twitter.com/hashtag/DefensaDemocracia?src=hash&amp;ref_src=twsrc%5Etfw">#DefensaDemocracia</a> en <a href="https://twitter.com/hashtag/UIMP2018?src=hash&amp;ref_src=twsrc%5Etfw">#UIMP2018</a>. La <a href="https://twitter.com/hashtag/formaci%C3%B3n?src=hash&amp;ref_src=twsrc%5Etfw">#formación</a> en materia <a href="https://twitter.com/hashtag/Ciber?src=hash&amp;ref_src=twsrc%5Etfw">#Ciber</a>. <a href="https://t.co/w96tqtjp6i">pic.twitter.com/w96tqtjp6i</a></p>&mdash; IUISI (@iuisi) <a href="https://twitter.com/iuisi/status/1016991236404727808?ref_src=twsrc%5Etfw">11 de julio de 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

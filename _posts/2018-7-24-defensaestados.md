@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Participación en el II Curso de Verano UIMP
+title: Participación del prof. Miguel Rodríguez Artacho en el II Curso de Verano UIMP
 ---
 ### Participación del profesor Miguel Rodríguez Artacho en el II Curso de Verano UIMP: Desafíos de las políticas públicas ante las ciberamenazas.
 
@@ -15,8 +15,8 @@ pueden afectar a nuestro modelo de democracia formal desde el ciberespacio. En s
 colectiva en la defensa de este modelo en el dominio del ciberespacio contra las agresiones que éste pudiera sufrir tanto por parte de actores políticos 
 clásicos como por parte de grupos organizados de influencia en cualquiera de sus modalidades (política, social, económica o delincuencia.
 
-El curso organizado por Universidad Internacional Menéndez Pelayo junto con el Instituto y la Guardia Civil los días 9, 10 y 11 de Julio 2018 en Santander. El programa completo lo podéis encontrar en el siguiente enlace: http://www.uimp.es/agenda-link.html?id_actividad=63X3&anyaca=2018-19
-Y si os interesa verlo en diferido podéis consultar los videos en el siguiente enlace: http://www.uimptv.es/c-cursos2018-04del9al13dejulio-193.html
+El curso organizado por Universidad Internacional Menéndez Pelayo junto con el Instituto y la Guardia Civil los días 9, 10 y 11 de Julio 2018 en Santander. El programa completo lo podéis encontrar en la [agenda](http://www.uimp.es/agenda-link.html?id_actividad=63X3&anyaca=2018-19)
+Y si os interesa verlo en diferido podéis consultar los videos en el [siguiente enlace](http://www.uimptv.es/c-cursos2018-04del9al13dejulio-193.html).
 
 La presentación de nuestro compañero la podéis encontrar aquí:
 <center>

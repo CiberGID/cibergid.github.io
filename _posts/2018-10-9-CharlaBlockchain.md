@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Charla dedicada a BlockChain
+title: Charla de Angel Bravo (@angelhbravo) titulada "Un  Blockchain  realmente útil  para  el negocio  empresarial"
 ---
 
-# Charla de Angel Bravo titulada "Un  Blockchain  realmente útil  para  el negocio  empresarial"
-
-El próximo 17 de Octubre tendremos el placer de recibir una charla de Angel Bravo (Office of the CTO Europe Blockchain,  Defense and National Security, IBM) titulada "Un  Blockchain  realmente útil  para  el negocio  empresarial".
+## El próximo 17 de Octubre tendremos el placer de recibir una charla de Angel Bravo (Office of the CTO Europe Blockchain,  Defense and National Security, IBM) titulada "Un  Blockchain  realmente útil  para  el negocio  empresarial".
 
 El resumen de esta charla es el siguiente:
 

@@ -9,7 +9,7 @@ El resumen de esta charla es el siguiente:
 
 *"Todo el  mundo  habla  ahora  de Blockchain pero   se tiene la  percepción  de que sirve  para  todo.  Hay que decir  que  hay varias clases  de blockchain,  unas  sirven  para  una cosa  y otros  para  otra,  que   hay  blockchains  que no  tienen criptomoneda ni mineros,  que no  todas  son  anónimas  o  pseudoanónimas  como  bitcoin, etc.   Pretendemos  dar  una  visión de blockchain  como  herramienta  dentro  de los sistemas  de información  de las empresas y  de los  sistemas  globales  de  negocio  que  involucran participantes  que  compiten  y   cooperan  en  la red, generando  un modelo  de  confianza  que lo  hace  único"*
 
-Podéis encontrar los materiales de la charla así como un laboratorio propuesto por Angel en el siguiente [enlace](https://unedo365-my.sharepoint.com/:f:/g/personal/llanos_scc_uned_es/EqI14CiqUpBJgBcArepDgt8B3iFiS7Ujrzp35W8fqfPsrA?e=spPGzG).
+Podéis encontrar los materiales de la charla así como un laboratorio propuesto por Angel en el siguiente [enlace](https://unedo365-my.sharepoint.com/:f:/g/personal/llanos_scc_uned_es/EqI14CiqUpBJgBcArepDgt8B3iFiS7Ujrzp35W8fqfPsrA?e=spPGzG). Para el laboratorio bajaros el documento PDF "Hyperledger Desmystified.pdf" y la máquina virtual IBM_Blockchain_uba.zip.
 
 Si os interesa podéis asistir a **las 10:30 el día 17 de Octubre a la sala Prof. José Mira**, en la cuarta planta de la ETSI de Informática. Os dejamos un mapa para ayudaros a llegar. 
 
